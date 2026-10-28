@@ -220,4 +220,4 @@ Google SketchUp is offered as a **full free version** with all features and upda
 Get started with Google SketchUp today and bring your 3D design ideas to life! Download now!
 
 ---
-**Last updated:** 2026-10-28 11:03:25 UTC
+**Last updated:** 2026-10-28 17:59:28 UTC
